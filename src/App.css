@@ -46,7 +46,7 @@ button{
 }
 
 button:hover{
-  background-color: rgb(227, 227, 255);
+  background-color: cyan;
   color: rgb(1, 1, 80);
 }
 
@@ -84,8 +84,8 @@ input[type="text"]{
   
 
 .showTask:hover{
-   background-color: #01018d;
-   color:#f9faff;
+   background-color: rgb(163, 245, 245);
+   color: black;
    font-size: 20px;
   }
 
