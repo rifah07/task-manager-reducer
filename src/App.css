@@ -97,13 +97,13 @@ input[type="text"]{
   @media only screen and (max-width:700px){
 
     .App{
-      max-width: 74%;
+      max-width: 76%;
       margin-top: 5%;
       margin-bottom: 5%;
     }
 
     input[type="text"]{
-      min-width: 86%;
+      min-width: 88%;
       margin-top: 3%;
       } 
 
@@ -115,12 +115,12 @@ input[type="text"]{
 
 
     .showTask{
-      font-size: 13px;
+      font-size: 14px;
       max-height: 800px;
     }
     
     .showTask:hover{      
-      font-size: 14px;
+      font-size: 15px;
      }
 
     li button{
